@@ -1,0 +1,7 @@
+{
+  "since_date": null,
+  "export_format": "json",
+  "output_dir": "data",
+  "output_filename": "sample_output.json",
+  "log_level": "INFO"
+}
